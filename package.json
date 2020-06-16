@@ -1,0 +1,23 @@
+{
+  "name": "travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamCsordas21/travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamCsordas21/travis/issues"
+  },
+  "homepage": "https://github.com/AdamCsordas21/travis#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
