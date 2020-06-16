@@ -1,7 +1,7 @@
 const greetings = require('./')
 
 describe('greetings', function() {
-  it('says hello', function() {
-    expect(greetings()).toEqual('say hello')
+  it('says hi', function() {
+    expect(greetings()).toEqual('say hi')
   })
 }) 
